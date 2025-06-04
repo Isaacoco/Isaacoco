@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Isaacoco/Isaacoco/main/banner.png" alt="Isaac El Baze – Développeur Fullstack & Studio Créatif Digital" />
+</p>![banner png](https://github.com/user-attachments/assets/106e9140-d70c-4f06-9ed4-23138a5ed38a)
+![ChatGPT Image 5 juin 2025, 01_44_58](https://github.com/user-attachments/assets/e318f4f7-c9a8-4b7c-ad63-101f6492f0e2)
+
+
 <h1 align="center">🚀 Bienvenue dans mon univers digital !</h1>
 
 <p align="center">
@@ -43,6 +49,7 @@ Je transforme les idées en expériences digitales ✨
 ---
 
 ## 🌍 Projets récents
+
 
 - 🔗 [PANAM OPTIC](https://panamoptic.com) – Site vitrine opticien à Paris  
 - 🔗 [METAL FERMETURES](https://metalfermetures.com) – Site produit industriel & B2B  
