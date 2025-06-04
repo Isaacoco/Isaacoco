@@ -52,8 +52,22 @@ Je transforme les idées en expériences digitales ✨
 
 ## 📊 Statistiques GitHub
 
+## ⚡️ Statistiques de mon activité GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaacoco&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
+<!-- Total Commits  -->
+<img src="https://github-readme-stats.vercel.app/api?username=Isaacoco&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&custom_title=Mon%20activité%20GitHub" height="160"/>
+
+<!-- Langages les plus utilisés -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacoco&langs_count=8&layout=compact&theme=radical" height="160"/>
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Isaacoco&theme=radical&hide_border=true" height="190"/>
+
+<!-- Visites de profil -->
+<img src="https://komarev.com/ghpvc/?username=Isaacoco&label=Vues%20du%20profil&color=blueviolet&style=flat" />
+
 </p>
 
 ---
