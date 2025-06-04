@@ -1,54 +1,69 @@
-<h1 align="center">Salut 👋, moi c'est Isaac</h1>
+<h1 align="center">🚀 Bienvenue dans mon univers digital !</h1>
 
 <p align="center">
-💻 Développeur Fullstack | 🎨 Studio Créatif Digital | 🇫🇷 Basé à Paris
+👋 Salut, moi c’est <strong>Isaac</strong> — Développeur Fullstack & Directeur Artistique Freelance basé à Paris 🇫🇷<br>
+Je transforme les idées en expériences digitales ✨
 </p>
 
 ---
 
-### 🚀 À propos de moi
+## 🧠 Qui suis-je ?
 
-- 🎓 Diplômé du Mastère **MS2D – Manager de Solutions Digitales & Data**
-- 🛠️ J’aime concevoir des **sites web interactifs**, créer des **interfaces modernes** et donner vie à des **identités visuelles fortes**
-- 🌍 J'accompagne entreprises et indépendants de A à Z : design, développement, contenu, stratégie
-- 💬 Parlons tech, design ou café : [isaacelbaze.job2025@gmail.com](mailto:isaacelbaze.job2025@gmail.com)
+🎓 Diplômé du Mastère **MS2D** (Manager de Solutions Digitales et Data)  
+💡 J'accompagne entrepreneurs, marques et agences dans leur transformation numérique  
+🎯 Objectif : créer des sites web et contenus visuels qui marquent les esprits
 
 ---
 
-### 🔧 Compétences principales
+## 🛠️ Stack technique & outils préférés
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/> 
-<img src="https://cdn.simpleicons.org/symfony/000000" width="40"/> 
-<img src="https://cdn.simpleicons.org/php/777BB4" width="40"/> 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/> 
-<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40"/> 
-<img src="https://cdn.simpleicons.org/git/F05032" width="40"/> 
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
+<img src="https://cdn.simpleicons.org/symfony/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/>
+<img src="https://cdn.simpleicons.org/php/777BB4" width="40"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40"/>
 <img src="https://cdn.simpleicons.org/elementor/92003B" width="40"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
 
 </div>
 
 ---
 
-### 📊 Quelques stats GitHub
+## ✨ Ce que je propose
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaacoco&show_icons=true&theme=radical)
-
----
-
-### 📂 Projets récents
-
-- 🔗 [Site PANAM OPTIC](https://panamoptic.com)  
-- 🔗 [Site METAL FERMETURES](https://metalfermetures.com)  
-- 🛠️ Portfolio en construction → bientôt en ligne
+💻 Développement de sites vitrines & e-commerce (WordPress / React / Symfony)  
+🎨 Création d'identités visuelles & contenus réseaux sociaux  
+📸 Shooting photo pro & 🎬 vidéos montées sur mesure  
+🔧 Outils no-code & automatisation pour simplifier la vie des clients
 
 ---
 
-### 🌐 Me retrouver ailleurs
+## 🌍 Projets récents
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/isaac-elbaze/)
-[![Email](https://img.shields.io/badge/email-contact-orange?style=flat-square&logo=gmail)](mailto:isaacelbaze.job2025@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-en%20cours-lightgrey?style=flat-square&logo=vercel)](https://ton-futur-domaine.com)
+- 🔗 [PANAM OPTIC](https://panamoptic.com) – Site vitrine opticien à Paris  
+- 🔗 [METAL FERMETURES](https://metalfermetures.com) – Site produit industriel & B2B  
+- 🛠️ Mon portfolio arrive très bientôt sur Vercel...
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaacoco&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🤝 Me contacter
+
+📧 isaacelbaze.job2025@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/isaac-elbaze/)  
+🐙 [GitHub](https://github.com/Isaacoco)
+
+---
+
+<p align="center"><strong>Merci de ta visite 🙌</strong> — N’hésite pas à me contacter pour collaborer !</p>
