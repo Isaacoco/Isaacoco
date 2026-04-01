@@ -47,12 +47,12 @@ Je transforme les idées en expériences digitales ✨
 
 ## 🌍 Projets récents
 
-
-- 🔗 [PANAM OPTIC](https://panamoptic.com) – Site vitrine opticien à Paris  
-- 🔗 [METAL FERMETURES](https://metalfermetures.com) – Site produit industriel & B2B  
-- 🛠️ Mon portfolio arrive très bientôt sur Vercel...
-
----
+- 🔗 [PANAM FIDELITY](https://panamoptic.com/panam-fidelity/) – Application mobile de fidélité & parrainage, disponible sur l'App Store et Google Play
+- 🔗 [ATELIER PAUL](https://meublespaul.fr) – E-commerce premium pour une marque de mobilier haut de gamme
+- 🔗 [PANAM OPTIC](https://panamoptic.com) – Site vitrine & SEO local pour un opticien parisien
+- 🔗 [METAL FERMETURES](https://metalfermetures.com) – Site corporate & catalogue produit B2B
+- 🔗 [QUELLE MERVEILLE](https://lesnocesderuby.vercel.app/) – Branding complet & site vitrine premium pour un traiteur événementiel
+- 🔗 [ISACORP Portfolio](https://isacorp.fr) – Portfolio professionnel one-page (Next.js 16, Tailwind CSS, Framer Motion)
 
 ## 📊 Statistiques GitHub
 
