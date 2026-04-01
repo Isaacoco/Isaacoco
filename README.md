@@ -82,7 +82,9 @@ Je transforme les idées en expériences digitales ✨
 ## 🤝 Me contacter
  
 📧 [Google Maps](https://maps.app.goo.gl/WCT89caUnfowEMTa7)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/isaac-elbaze/)  
+
 🐙 [GitHub](https://github.com/Isaacoco)
 
 ---
