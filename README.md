@@ -51,8 +51,10 @@ Je transforme les idées en expériences digitales ✨
 - 🔗 [ATELIER PAUL](https://meublespaul.fr) – E-commerce premium pour une marque de mobilier haut de gamme
 - 🔗 [PANAM OPTIC](https://panamoptic.com) – Site vitrine & SEO local pour un opticien parisien
 - 🔗 [METAL FERMETURES](https://metalfermetures.com) – Site corporate & catalogue produit B2B
-- 🔗 [QUELLE MERVEILLE]((https://www.qellemerveille.fr/)) – Branding complet & site vitrine premium pour un traiteur événementiel
-- 🔗 [ISACORP Portfolio](https://isacorp.fr) – Portfolio professionnel one-page (Next.js 16, Tailwind CSS, Framer Motion)
+- 🔗 [QUELLE MERVEILLE](https://www.qellemerveille.fr/) – Branding complet & site vitrine premium pour un traiteur événementiel
+- 🔗 [PANAM OPTIC](https://panamoptic.com/) – Refonte du site web d'un opticien créateur. 
+- 🔗 [ISACORP Portfolio]([https://isacorp.fr](https://www.isacorp.fr/)) – Portfolio professionnel one-page (Next.js 16, Tailwind CSS, Framer Motion) 
+
 
 ## 📊 Statistiques GitHub
 
