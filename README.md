@@ -174,9 +174,6 @@ Vitrine de mon activité freelance, animations et transitions soignées.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Isaacoco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacoco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="Top Languages" />
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaacoco&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
