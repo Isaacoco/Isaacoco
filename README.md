@@ -26,20 +26,21 @@
 
 <br/>
 
-## 👋 Qui suis-je ?
 
+## 👋 Qui suis-je ?
+ 
 ```ts
 const isaac = {
   role:      "Développeur Fullstack & Directeur Artistique",
   company:   "ISACORP · Freelance",
-  location:  "Paris 🇫🇷",
+  location:  "Paris, France",
   formation: "Mastère MS2D — Manager de Solutions Digitales et Data",
   focus:     ["Sites vitrines & e-commerce", "Applications métier", "Identité visuelle", "Contenu"],
   mission:   "Accompagner entrepreneurs, marques et agences dans leur transformation numérique",
   objectif:  "Créer des sites web et des contenus visuels qui marquent les esprits",
 };
 ```
-
+ 
 <br/>
 
 ## 🛠️ Stack technique & outils
