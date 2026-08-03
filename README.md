@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,50:6366F1,100:EC4899&height=200&section=header&text=Isaac%20Elbaze&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Fullstack%20Developer%20%26%20Directeur%20Artistique&descAlignY=54&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Je+transforme+les+id%C3%A9es+en+exp%C3%A9riences+digitales;React+%C2%B7+Next.js+%C2%B7+Symfony+%C2%B7+React+Native;Freelance+bas%C3%A9+%C3%A0+Paris+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
