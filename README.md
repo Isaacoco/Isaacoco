@@ -3,8 +3,26 @@
 </p>
 <h1 align="center">🚀 Bienvenue dans mon univers digital !</h1>
 
-<div align="center">
 
+
+<div align="center">
+interface Freelance {
+  role: string;
+  stack: string[];
+  disponible: boolean;
+}
+
+const isaac: Freelance = {
+  role:       "Développeur Fullstack & Directeur Artistique",
+  company:    "ISACORP · Paris, France",
+  formation:  "Mastère MS2D — Manager de Solutions Digitales et Data",
+  stack:      ["React", "Next.js", "Symfony", "React Native", "WordPress"],
+  focus:      ["Applications métier", "E-commerce premium", "Identité visuelle"],
+  disponible: true,
+};
+
+// J'accompagne entrepreneurs, marques et agences
+// dans leur transformation numérique.
 
 
 <br/>
